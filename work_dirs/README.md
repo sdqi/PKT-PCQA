@@ -1,1 +1,1 @@
-#Directory for saving work logs.
+# Directory for saving work logs.
