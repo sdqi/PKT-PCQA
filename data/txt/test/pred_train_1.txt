@@ -1,0 +1,8 @@
+longdress_Octree-RAHT_R03,0.8
+biplane_Octree-RAHT_R02,0.22
+loot_Octree-RAHT_R03,0.78
+head_Octree-RAHT_R02,0.2
+soldier_Octree-RAHT_R03,0.49
+longdress_Octree-RAHT_R02,0.36
+head_Octree-RAHT_R03,0.58
+loot_Octree-RAHT_R02,0.33

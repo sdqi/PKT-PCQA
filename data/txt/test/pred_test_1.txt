@@ -1,0 +1,2 @@
+soldier_Octree-RAHT_R02,0.29
+biplane_Octree-RAHT_R03,0.55

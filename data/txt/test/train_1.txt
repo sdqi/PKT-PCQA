@@ -1,0 +1,8 @@
+longdress_Octree-RAHT_R03,good
+biplane_Octree-RAHT_R02,bad
+loot_Octree-RAHT_R03,good
+head_Octree-RAHT_R02,bad
+soldier_Octree-RAHT_R03,fair
+longdress_Octree-RAHT_R02,fair
+head_Octree-RAHT_R03,fair
+loot_Octree-RAHT_R02,fair

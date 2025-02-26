@@ -150,9 +150,6 @@ def train(train_loader, test_loader, model, loss_func, optimizer, scheduler, dev
                 best_PLCC = pcorrelation
                 best_epoch = epoch
             print(f'Best PLCC: {best_PLCC}, Epoch: {best_epoch}')
-            "dds绘制loss曲线"
-            train_losses.append(train_loss)
-            test_losses.append(loss)
 
         # writer.add_scalar('final train loss', loss1, epoch)
         # writer.add_scalar('final train PLCC', pcorrelation1, epoch)
@@ -164,15 +161,6 @@ def train(train_loader, test_loader, model, loss_func, optimizer, scheduler, dev
         # scheduler.step()
         if scheduler:
             scheduler.step()
-    "dds绘制loss曲线"
-    import matplotlib.pyplot as plt
-    plt.plot(train_losses, label='Train Loss')
-    plt.plot(test_losses, label='Test Loss')
-    plt.xlabel('Epoch')
-    plt.ylabel('Loss')
-    plt.title('Loss Curve')
-    plt.legend()
-    plt.show()
 
 if __name__ == '__main__':
 

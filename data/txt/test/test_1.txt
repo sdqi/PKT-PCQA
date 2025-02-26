@@ -1,0 +1,2 @@
+soldier_Octree-RAHT_R02,fair
+biplane_Octree-RAHT_R03,fair
